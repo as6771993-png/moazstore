@@ -1,0 +1,7 @@
+{
+  "name": "MoazStore - Mobile Boosters & Smart Locks",
+  "description": "A professional sales platform for MoazStore specializing in mobile signal boosters and smart lock systems, featuring product management and social sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
